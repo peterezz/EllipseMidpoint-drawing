@@ -1,0 +1,15 @@
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\bin\Debug\netcoreapp3.1\ellipseMidpoint.exe
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\bin\Debug\netcoreapp3.1\ellipseMidpoint.deps.json
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\bin\Debug\netcoreapp3.1\ellipseMidpoint.runtimeconfig.json
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\bin\Debug\netcoreapp3.1\ellipseMidpoint.runtimeconfig.dev.json
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\bin\Debug\netcoreapp3.1\ellipseMidpoint.dll
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\bin\Debug\netcoreapp3.1\ellipseMidpoint.pdb
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\obj\Debug\netcoreapp3.1\ellipseMidpoint.csprojAssemblyReference.cache
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\obj\Debug\netcoreapp3.1\ellipseMidpoint.Form1.resources
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\obj\Debug\netcoreapp3.1\ellipseMidpoint.csproj.GenerateResource.cache
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\obj\Debug\netcoreapp3.1\ellipseMidpoint.AssemblyInfoInputs.cache
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\obj\Debug\netcoreapp3.1\ellipseMidpoint.AssemblyInfo.cs
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\obj\Debug\netcoreapp3.1\ellipseMidpoint.csproj.CoreCompileInputs.cache
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\obj\Debug\netcoreapp3.1\ellipseMidpoint.dll
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\obj\Debug\netcoreapp3.1\ellipseMidpoint.pdb
+D:\mySubjects\second term\graphics\ellipseMidpoint\ellipseMidpoint\obj\Debug\netcoreapp3.1\ellipseMidpoint.genruntimeconfig.cache
